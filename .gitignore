@@ -1,0 +1,11 @@
+# Source archives — content is already extracted
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.tgz
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
